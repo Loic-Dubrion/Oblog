@@ -13,7 +13,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Loïc Dubrion",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loic-Dubrion/Oblog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Loic-Dubrion/Oblog/issues"
+  },
+  "homepage": "https://github.com/Loic-Dubrion/Oblog#readme",
   "description": ""
 }
